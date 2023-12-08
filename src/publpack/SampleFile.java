@@ -76,7 +76,13 @@ public class SampleFile{
 		System.out.println("----------------------------------------------------");
 		System.out.println();
 		
-		
-								
+		Sring h = new String("SdadwAWqdkhfr");
+		String ab = h.toUpperCase();
+		System.out.println("N0.10 toUpperCase() " +ab);
+		String bc = h.toLowerCase();
+		System.out.println("No.11 toLowerCase() "+bc);
+
+		System.out.println("----------------------------------------------------");
+		System.out.println();
 }
 }
